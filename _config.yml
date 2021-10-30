@@ -21,7 +21,7 @@ timezone: CET
 description: A blog for alternative music and fantasy stories
 logo: site-logo.svg
 search: true
-url: http://themicronaut.github.io
+url: http://qxypv.github.io/index.html
 # common url for images and other external data  
 external_data_url: https://raw.githubusercontent.com/TheMicronaut/blog-images-folder/master
 
@@ -123,7 +123,7 @@ owner:
     siteID: 57dd49687d8c31174a0dc0b8
   google:
     plus:
-    analytics: UA-54877893-1
+    analytics:
     verify:
     ad-client:
     ad-slot:
