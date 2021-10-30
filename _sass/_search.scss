@@ -1,0 +1,21 @@
+/* ==========================================================================
+   Search
+   ========================================================================== */
+
+.search-wrapper {
+  @include outer-container;
+  margin-top: 0;
+  padding-right: $gutter;
+  padding-left: $gutter;
+  height: 1px;
+}
+
+/*
+   Search form
+   ========================================================================== */
+
+#search-input {
+  margin-right: 10px;
+  font-size: 1.25rem;
+  margin-bottom: 15px;
+}
